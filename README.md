@@ -1,7 +1,7 @@
 # SentimentAnalysisClassifier
 Sentiment Classifier for IMDB Review Dataset
 
-This Experiment show all the process done for reach some close SotA on sentiment analysis using IMDB Dataset. From EDA to Model Definition And Fitting. The Dataset was divided in 3 parts, Training(45k examples), Evaluation(2.5k examples) and Test(2.5k examples) sets.
+This Experiment show all the process done for reach some close SotA on sentiment analysis using IMDB Dataset. From EDA to Model Definition And Fitting. The Dataset was divided in 3 parts, Training(45k examples), Evaluation(2.5k examples) and Test(2.5k examples) sets. The model architecture features LSTM + Dense Networks, slightly regularized and Batch Normalized.
 
 The next link, redirect to Weights And Biases web page, where was logged the experiments results: https://app.wandb.ai/elpapi42/Sentiment-Analysis-Classifier?workspace=user-elpapi42
 
